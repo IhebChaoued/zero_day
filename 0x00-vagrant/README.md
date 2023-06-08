@@ -1,1 +1,1 @@
-describing what this project is about
+ssh into your Ubuntu VM
